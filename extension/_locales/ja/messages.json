@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Netflix イントロスキップボタンキラー",
+    "message": "Netflix intro-skip button killer",
     "description": "Netflix の OP 開始時に表示される「イントロをスキップ」ボタンを非表示にし、ED 開始時に画面が小さくなったときに元に戻します"
   },
   "appDesc": {
