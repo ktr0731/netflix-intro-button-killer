@@ -1,6 +1,7 @@
-window.setTimeout(() => {
-    new MutationObserver(() => {
-        const e = document.querySelector(".VideoContainer");
-        e && e.click();
-    }).observe(document.querySelector(".AkiraPlayer"), {childList: true});
-}, 10000);
+new MutationObserver(() => {
+    const e = document.querySelector(".VideoContainer");
+    e && e.click();
+}).observe(document.querySelector("#appMountPoint"), {
+    childList: true,
+    subtree: true
+});
