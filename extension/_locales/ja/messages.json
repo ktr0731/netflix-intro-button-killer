@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Netflix イントロスキップボタンキラー",
+    "description": "Netflix の OP 開始時に表示される「イントロをスキップ」ボタンを非表示にします"
+  },
+  "appDesc": {
+    "message": "Netflix の OP 開始時に表示される「イントロをスキップ」ボタンを非表示にします",
+    "description":""
+  }
+}
